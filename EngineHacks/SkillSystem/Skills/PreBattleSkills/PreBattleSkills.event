@@ -510,6 +510,12 @@ POIN SkillTester
 WORD LunarBraceID
 
 ALIGN 4
+TomeASCalc:
+#incbin "TomeASCalc/TomeASCalc.dmp"
+POIN SkillTester
+POIN ItemTable
+WORD TomeASCalcID
+
 Deity:
 MESSAGE Deity skill at CurrentOffset
 #incbin "Deity/Deity.dmp"
