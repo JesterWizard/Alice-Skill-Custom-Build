@@ -371,7 +371,6 @@
 #define SD_Moonlight 0xF71
 #define SD_Vengeance 0xF72
 #define SD_Eclipse 0xF73
-#define SD_CamaraderieAlt 0xF74
 #define UM_Swarp  0xF76
 #define UM_SwarpDesc  0xF77
 
@@ -426,5 +425,3 @@
 #define UM_SureShot 0xfB3
 #define UM_SureShotDesc 0xfB4
 #define PrepScreenUseSkillScroll  0xfB5
-#define HealTargetBottomText 0xfB6
-#define DrawBackTargetBottomText 0xfB7
