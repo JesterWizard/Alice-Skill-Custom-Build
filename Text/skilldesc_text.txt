@@ -11,6 +11,10 @@ Adept: Gain a consecutive attack.[N]
 Acrobat: All traversable[N]
 terrain costs 1 movement.[X]
 
+## SD_AcrobatMinus
+Acrobat-: All traversable[N]
+terrain costs -1 movement.[X]
+
 ## SD_Pass
 Pass: Can move through[N]
 enemy units.[X]
