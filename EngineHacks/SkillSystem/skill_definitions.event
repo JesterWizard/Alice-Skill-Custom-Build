@@ -1129,8 +1129,8 @@
 #define BruteForceID 192
 #define TomeASCalcID 0
 #define DeityID 243
-#define AversionID 10
+#define AversionID 255
 
 //Acrobat-: All traversable terrain costs reduced by 1
 //By Jester
-#define AcrobatMinusID 255
+#define AcrobatMinusID 10

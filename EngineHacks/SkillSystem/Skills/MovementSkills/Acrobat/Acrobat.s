@@ -27,6 +27,8 @@ b     AcrobatLoop      @ Unit has it, so branch to Acrobat movement cost loop
 LoadAcrobatMinus:
 ldr   r0,SkillChecker
 mov   r14,r0
+ldr   r0,CurrentCharPtr
+ldr   r0,[r0]
 ldr   r1,AcrobatMinusID
 .short  0xF800
 mov   r1,#0x0          @ counter
